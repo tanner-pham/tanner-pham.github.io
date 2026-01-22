@@ -17,9 +17,5 @@
   "bugs": {
     "url": "https://github.com/tanner-pham/tanner-pham.github.io/issues"
   },
-  "homepage": "https://github.com/tanner-pham/tanner-pham.github.io#readme",
-  "devDependencies": {
-    "@tailwindcss/cli": "^4.1.18",
-    "tailwindcss": "^4.1.18"
-  }
+  "homepage": "https://github.com/tanner-pham/tanner-pham.github.io#readme"
 }
